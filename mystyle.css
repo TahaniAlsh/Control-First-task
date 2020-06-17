@@ -1,0 +1,79 @@
+body{
+	
+	 margin:0 auto;
+	 padding:0;
+   background:#222323;
+}
+
+.container{
+  
+    margin-top:360px	
+    
+}
+.btn{
+	border: 1px solid #3498db;
+	background: none;
+	padding: 10px 20px;
+	font-size: 20px;
+	font-family: "montserrat";
+	cursor: pointer;
+	margin: 10px;
+    
+}
+
+.btn1:hover,.btn2:hover{
+	color: #3498db;
+}
+
+
+.btn3:hover,.btn4:hover{
+	color: #3498db;
+}
+
+.Stop:hover{
+	color: #FF0000;
+}
+
+
+.btn1{
+	position:fixed;
+	left:41.68%;
+	top:40%;
+}
+
+.btn2{
+	position:fixed;
+	left:41.23%;
+	top:60%;
+}
+
+.btn3{
+	position:fixed;
+	left:50.79%;
+	top:50%;
+}
+
+.btn4{
+	position:fixed;
+	left:36%;
+	top:50%;
+}
+
+.Stop{
+	position:fixed;
+	left:42.80%;
+	top:50%;
+}
+
+.Stop{
+	border: 1px solid #FF0000;
+	padding: 10px 20px;
+	font-family: "montserrat";
+	font-size: 20px;
+	background: none;
+	cursor: pointer;
+	margin: 10px;
+	
+	
+}
+
